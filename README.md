@@ -114,4 +114,4 @@ The report should contain the following:
     * Were you able to achieve the target model performance?
     * What steps did you take in your attempts to increase model performance?
 
-3. **Summary**: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and then explain your recommendation.
+3. **Summary**: Summarise the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and then explain your recommendation.
