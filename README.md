@@ -115,3 +115,6 @@ The report should contain the following:
     * What steps did you take in your attempts to increase model performance?
 
 3. **Summary**: Summarise the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and then explain your recommendation.
+
+## References
+IRS. Tax Exempt Organization Search Bulk Data Downloads. https://www.irs.gov/
